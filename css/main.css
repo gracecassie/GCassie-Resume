@@ -18,3 +18,13 @@ h2 {
     padding: 10px;
     border-radius: 8px;
 }
+
+.button:hover {
+    background-color: brown;
+    border-color: brown;
+  
+}
+
+.button:focus {
+
+}
