@@ -26,5 +26,6 @@ h2 {
 }
 
 .button:focus {
+    border: 1px solid yellow;
 
 }
